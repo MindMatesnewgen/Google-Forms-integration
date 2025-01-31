@@ -1,0 +1,182 @@
+{
+  "version": "3.93.33359.0",
+  "course_id": "Artistic_quiz_2021_85",
+  "title": "Mondelez project",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "QUIZ"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6mF1dU1X2yp",
+      "title": "Start Quiz",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6kfqimTF8mz",
+      "title": "Start Quiz",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5vtY5FNCV3T",
+      "title": "Intern Results",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6p9GG3uuCc1",
+      "title": "Sales Results",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "60HYUKVOUOW",
+      "title": "Manager Results",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6DFiDrzj7SP",
+      "title": "Question 1",
+      "scene_index": "Q1.1"
+    },
+    {
+      "id": "5WhH6GR322X",
+      "title": "Question 2",
+      "scene_index": "Q1.2"
+    },
+    {
+      "id": "5uaRPKQzzjf",
+      "title": "Question 3",
+      "scene_index": "Q1.3"
+    },
+    {
+      "id": "6etnty7LXaL",
+      "title": "Question 1",
+      "scene_index": "Q2.1"
+    },
+    {
+      "id": "5symfd5uVpL",
+      "title": "Question 2",
+      "scene_index": "Q2.2"
+    },
+    {
+      "id": "5gBcBrS7Xd3",
+      "title": "Question 3",
+      "scene_index": "Q2.3"
+    },
+    {
+      "id": "5yOGq3PJZsc",
+      "title": "Question 1",
+      "scene_index": "Q3.1"
+    },
+    {
+      "id": "6cqYJoWmDlF",
+      "title": "Question 2",
+      "scene_index": "Q3.2"
+    },
+    {
+      "id": "5e8kWKIGJ0w",
+      "title": "Question 3",
+      "scene_index": "Q3.3"
+    },
+    {
+      "id": "6eC8yOy0Tdd",
+      "title": "Question 1",
+      "scene_index": "Q4.1"
+    },
+    {
+      "id": "6Gg7oQYR9Fe",
+      "title": "Question 2",
+      "scene_index": "Q4.2"
+    },
+    {
+      "id": "5rGB6iq41Kq",
+      "title": "Question 3",
+      "scene_index": "Q4.3"
+    },
+    {
+      "id": "6gHtOdwx2O4",
+      "title": "Question 1",
+      "scene_index": "Q5.1"
+    },
+    {
+      "id": "6mx9p9k77r3",
+      "title": "Question 2",
+      "scene_index": "Q5.2"
+    },
+    {
+      "id": "6IcCRtlEKS9",
+      "title": "Question 3",
+      "scene_index": "Q5.3"
+    },
+    {
+      "id": "6GEjzi6jQs9",
+      "title": "Question 1",
+      "scene_index": "Q6.1"
+    },
+    {
+      "id": "66MxxPovGqz",
+      "title": "Question 2",
+      "scene_index": "Q6.2"
+    },
+    {
+      "id": "6LdFBOL5MEw",
+      "title": "Question 3",
+      "scene_index": "Q6.3"
+    },
+    {
+      "id": "6Y9d4pqpPcE",
+      "title": "Question 1",
+      "scene_index": "Q7.1"
+    },
+    {
+      "id": "5cJ5WV6Cxlm",
+      "title": "Question 2",
+      "scene_index": "Q7.2"
+    },
+    {
+      "id": "6TxXMY6HI69",
+      "title": "Question 3",
+      "scene_index": "Q7.3"
+    },
+    {
+      "id": "5okruacdJB5",
+      "title": "Question 1",
+      "scene_index": "Q8.1"
+    },
+    {
+      "id": "6SNlGjTj55n",
+      "title": "Question 2",
+      "scene_index": "Q8.2"
+    },
+    {
+      "id": "5tB1zRCpoDs",
+      "title": "Question 3",
+      "scene_index": "Q8.3"
+    },
+    {
+      "id": "6Omut6N6C6H",
+      "title": "Question 1",
+      "scene_index": "Q9.1"
+    },
+    {
+      "id": "6VYbBM2MP5r",
+      "title": "Question 2",
+      "scene_index": "Q9.2"
+    },
+    {
+      "id": "5vdJVAKFx8U",
+      "title": "Question 3",
+      "scene_index": "Q9.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1100
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
